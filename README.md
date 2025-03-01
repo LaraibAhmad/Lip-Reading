@@ -6,7 +6,7 @@ Geometrically, The lip sequences are converted into text. The code is in project
 This is my own research.
 Method 2:
 Sentence interpretation by lip movement
-By using Deep Learning.
+by using Deep Learning.
 The code is in lip_reading_sentences.ipynb file. 
 
 
