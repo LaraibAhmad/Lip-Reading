@@ -1,14 +1,10 @@
-This project's objective is to read the motion of lips and generate text from lip motion. This project is solely based on lip motion. I have implemented this project using two methods:
-An overview you can find in 3rd_Sem_Presentation_Md_Laraib_Ahmad.pdf
-More detail will be published further
-Method 1:
-Geometrically, The lip sequences are converted into text. The code is in project.ipynb file.  
-This is my own research.
-For metho 1 i used custom based dataset which is created by me.
-Method 2:
-Sentence interpretation by lip movement
-by using Deep Learning.
-The code is in lip_reading_sentences.ipynb file. 
-The Grip Corpus Dataset is used for method second.
+Lip Motion to Text Conversion
+This project aims to interpret lip movements and generate corresponding text solely based on lip motion. It has been implemented using two distinct methods:
 
+Method 1: Geometric Approach
+Lip sequences are analyzed geometrically and converted into text. This approach is based on my own research, utilizing a custom dataset that I personally created. The implementation details can be found in project.ipynb.
 
+Method 2: Deep Learning-Based Sentence Interpretation
+This method leverages deep learning to interpret full sentences from lip movements. The GRIP Corpus Dataset is used for training and evaluation. The corresponding implementation is documented in lip_reading_sentences.ipynb.
+
+A high-level overview of this project is available in 3rd_Sem_Presentation_Md_Laraib_Ahmad.pdf
