@@ -2,8 +2,11 @@ This project's objective is to read the motion of lips and generate text from li
 An overview you can find in 3rd_Sem_Presentation_Md_Laraib_Ahmad.pdf
 More detail will be published further
 Method 1:
-Geometrically, The lip sequences are converted into text. The code is in project.ipynb file. 
+Geometrically, The lip sequences are converted into text. The code is in project.ipynb file.  
+This is my own research.
 Method 2:
+Sentence interpretation by lip movement
 By using Deep Learning.
-By Deep Learning is under progess...
-This project App for Lip Reading is also under progress...
+The code is in lip_reading_sentences.ipynb file. 
+
+
