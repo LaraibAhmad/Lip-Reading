@@ -4,9 +4,11 @@ More detail will be published further
 Method 1:
 Geometrically, The lip sequences are converted into text. The code is in project.ipynb file.  
 This is my own research.
+For metho 1 i used custom based dataset which is created by me.
 Method 2:
 Sentence interpretation by lip movement
 by using Deep Learning.
 The code is in lip_reading_sentences.ipynb file. 
+The Grip Corpus Dataset is used for method second.
 
 
